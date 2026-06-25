@@ -1,0 +1,25 @@
+Parameter,Value,Description,Reference,Fixed,Remark
+B0,0.13,m3 CH4 kg-1 volative solid excretion,Dick et al. (2015),N,
+MCFgr,0.015,manure management emission factor grazing,IPCC (2006),N,
+MCFfl,0.6,manure management emission factor feedlot,IPCC (2006),,
+MS,1,manure management system,,N,accounted for in MCF
+EF3,0.02,emission factor dung and urine,"IPCC (2006) (Chapter 11, table 11.1)",Y,
+FracgasMS,0.2,fraction excreted N volatilized,"IPCC (2006) (Chapter 11, table 11.3)",N,different for fertilizer and manure
+FracleachMS,0.3,fraction excreted N leached,"IPCC (2006) (Chapter 11, table 11.3)",Y?,large uncertainty
+GE,18.45,standard gross energy content,IPCC (2006),Y,
+UE,0.04,fraction GE ending up in urine,IPCC (2006) (Equation 10.24 in Annex),N,dependent on grain content diet
+ASH,0.08,ash content feed,IPCC (2006) (Equation 10.24 in Annex),Y,
+CH4c,0.67,kg CH4 per m3,IPCC (2006) (Equation 10.23),Y,
+Ncon,1.571428571,conversion from N to N2O,IPCC (2006) (Equation 10.25 in Annex),Y,
+EF4,0.01,fraction N volatilisation,"IPCC (2006) (Chapter 11, table 11.3)",Y,
+EF5,0.0075,fraction N leaching,"IPCC (2006) (Chapter 11, table 11.3)",,
+CH4MJtoKG,55.5,gross energy content (combustion) methane,,,
+GWPCH4,34,global warming potential methane,IPCC (2013),Y,
+GWPN2O,298,global warming potential nitrous oxide,IPCC (2013),Y,
+Type,2,,,N,"1 = beef cattle, 2 = dairy cattle"
+ENTCH4PAR1beef,3.05,empirical parameter,Ellis et al. (2006) Equation 7b,Y,
+ENTCH4PAR2beef,0.0371,empirical parameter,Ellis et al. (2006) Equation 7b,Y,
+ENTCH4PAR3beef,0.801,empirical parameter,Ellis et al. (2006) Equation 7b,Y,
+ENTCH4PAR1dairy,1.64,empirical parameter,Ellis et al. (2006) Equation 7d,Y,
+ENTCH4PAR2dairy,0.0396,empirical parameter,Ellis et al. (2006) Equation 7d,Y,
+ENTCH4PAR3dairy,1.45,empirical parameter,Ellis et al. (2006) Equation 7d,Y,

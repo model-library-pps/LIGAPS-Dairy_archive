@@ -8,9 +8,9 @@ WUR, Plant Production Systems, P.O. Box 430, 6700 AK Wageningen, The Netherlands
 aart.vanderlinden@wur.nl
 
 **Website**\
-Animal Production systems group, Wageningen University & Research, http://www.aps.wur.nl/UK/
+Animal Production systems group, Wageningen University & Research, https://www.wur.nl/en/chair-groups/animal-production-systems
 
-Plant Production systems group, Wageningen University & Research , http://www.pps.wur.nl/UK/
+Plant Production systems group, Wageningen University & Research , https://www.wur.nl/en/chair-groups/plant-production-systems-group
 
 **Global Yield Gap Atlas**\
 www.yieldgap.org
